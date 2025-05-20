@@ -1,6 +1,18 @@
-ignore-vanilla-permissions: false
-command-block-overrides: []
-aliases:
-  op:
-  - say OP er deaktiveret.
 
+command-block-overrides: []
+ignore-vanilla-permissions: false
+aliases:
+  essentials:s:
+  - []
+  tfb:
+  - commandpanel
+  TFB:
+  - commandpanel
+  h:
+  - channel send TFB-Help $$1-
+  c:
+  - channel send TFB-Chat $$1-
+  s:
+  - channel send TFB-Staff $$1-
+  sell:
+  - economyshopgui:sellall $1-
