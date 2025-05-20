@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747511704904
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747512591645
+  login: 1747511302893
+money: '0'
+last-account-name: Kri1ler
+logoutlocation:
+  world: 9a923e2b-2027-4630-a99d-f146c5be0d8f
+  world-name: world
+  x: -4.385836704024873
+  y: 94.0
+  z: 25.242924902497794
+  yaw: 0.888397216796875
+  pitch: 13.674153327941895
+lastlocation:
+  world: 9a923e2b-2027-4630-a99d-f146c5be0d8f
+  world-name: world
+  x: -5.768379829001353
+  y: 94.0
+  z: 52.109541422034006
+  yaw: 167.39952087402344
+  pitch: 66.44998168945312
+homes:
+  home:
+    world: 9a923e2b-2027-4630-a99d-f146c5be0d8f
+    world-name: world
+    x: 0.5
+    y: 76.0
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+  hejsa:
+    world: 9a923e2b-2027-4630-a99d-f146c5be0d8f
+    world-name: world
+    x: -3.591524433597294
+    y: 94.0
+    z: 50.2967642006923
+    yaw: 94.80004119873047
+    pitch: 34.35000991821289
+  hejsa2:
+    world: 9a923e2b-2027-4630-a99d-f146c5be0d8f
+    world-name: world
+    x: -3.591524433597294
+    y: 94.0
+    z: 50.2967642006923
+    yaw: 94.80004119873047
+    pitch: 34.35000991821289
+  hejsa4:
+    world: 9a923e2b-2027-4630-a99d-f146c5be0d8f
+    world-name: world
+    x: -3.591524433597294
+    y: 94.0
+    z: 50.2967642006923
+    yaw: 94.80004119873047
+    pitch: 34.35000991821289
+  hejsa3:
+    world: 9a923e2b-2027-4630-a99d-f146c5be0d8f
+    world-name: world
+    x: -3.591524433597294
+    y: 94.0
+    z: 50.2967642006923
+    yaw: 94.80004119873047
+    pitch: 34.35000991821289

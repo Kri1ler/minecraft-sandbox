@@ -1,0 +1,6 @@
+ignore-vanilla-permissions: false
+command-block-overrides: []
+aliases:
+  op:
+  - say OP er deaktiveret.
+

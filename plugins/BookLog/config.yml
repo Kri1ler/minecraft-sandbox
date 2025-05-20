@@ -1,0 +1,4 @@
+logging-format: EEE-MMM-d-yyyy-HH-mm-ss
+help-message:
+- Valid Commands
+- /bookedit reload
