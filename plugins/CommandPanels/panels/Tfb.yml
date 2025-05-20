@@ -1,0 +1,29 @@
+panels:
+  TfbPanel:
+    perm: default
+    rows: 6
+    title: '&3Tfb  &2Panel'
+    empty: BLACK_STAINED_GLASS_PANE
+    commands:
+    - tfb
+    - TFB
+    item:
+      '19':
+        material: GRASS_BLOCK
+        stack: 1
+        name: §3Survivel
+      '22':
+        material: ELYTRA
+        stack: 1
+        name: §5FlyingSimolator
+      '25':
+        material: DIRT
+        stack: 1
+        name: §9Op Prison
+      '40':
+        material: COMPASS
+        stack: 1
+        name: §6Return
+        commands:
+        - cpc
+      
